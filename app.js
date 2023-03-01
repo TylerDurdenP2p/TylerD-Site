@@ -3,3 +3,4 @@ window.onload = function(){
   img.width = window.innerWidth;
   img.height = window.innerHeight;
 }
+console.log("А ВОТ СЮДА ЛЕСТЬ НЕ НАДОООО");
